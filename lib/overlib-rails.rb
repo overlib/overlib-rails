@@ -1,4 +1,4 @@
-require "overlib/version"
+require "overlib-rails/version"
 
 module Overlib
   module Rails

@@ -3,11 +3,13 @@
 overLIB javascript popup for rails asset pipeline.
 If you just want the overlib.js then see the [related project](http://github.com/overlib/overlib)
 
+It should work on Rails 3.1.x and Rails 3.2.x.
+
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'overlib'
+    gem 'overlib-rails'
 
 And then execute:
 
@@ -15,7 +17,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install overlib
+    $ gem install overlib-rails
 
 ## Usage
 
@@ -42,4 +44,4 @@ $(function(){
 5. Create new Pull Request
 
 ## Issues and Problems
-For problems with overlib.js please report them in the [overlib project](http://github.com/overlib/overlib)  Otherwise put it in this gem.
+For problems with overlib.js please report them in the [overlib project](http://github.com/overlib/overlib)  Otherwise make an issue or pull request here.
