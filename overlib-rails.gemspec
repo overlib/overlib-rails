@@ -14,5 +14,5 @@ Gem::Specification.new do |gem|
   gem.name          = "overlib-rails"
   gem.require_paths = ["lib"]
   gem.version       = Overlib::VERSION
-  gem.add_dependency "railties", "~> 3.1"
+  gem.add_dependency "railties", ">= 3.1", "< 4.1"
 end

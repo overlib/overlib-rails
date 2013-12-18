@@ -33,7 +33,7 @@ $(function(){
   $(document).on("mouseout",".popup,.help-question",function(event) {
     return nd();
   });
-}
+});
 ```
 ## Contributing
 
