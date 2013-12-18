@@ -3,7 +3,7 @@
 overLIB javascript popup for rails asset pipeline.
 If you just want the overlib.js then see the [related project](http://github.com/overlib/overlib)
 
-It should work on Rails 3.1.x and Rails 3.2.x.  I still need to test it out in Rails 4.
+It should work on Rails 3.1.x, Rails 3.2.x and Rails 4.0.x
 
 ## Installation
 
